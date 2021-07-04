@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "320470873901",
+    "project_id": "social-app-de615",
+    "storage_bucket": "social-app-de615.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320470873901:android:6b9fabaa83a6b137f945a4",
+        "android_client_info": {
+          "package_name": "com.sawan_singh.social_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320470873901-lfnbtb3e79uahr3uf99gtgcag3enachu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAUiP_b4r59v0RerDziGuwD8vToDDwXZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320470873901-lfnbtb3e79uahr3uf99gtgcag3enachu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
